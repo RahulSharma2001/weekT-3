@@ -1,0 +1,15 @@
+ .container {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+ }
+
+ .box {
+     margin: 20px;
+     padding: 20px;
+     border: 1px solid #ccc;
+ }
+
+ button {
+     cursor: pointer;
+ }
